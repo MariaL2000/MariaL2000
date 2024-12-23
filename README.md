@@ -3,6 +3,8 @@ My goal is to create dynamic web applications that are visually comfortable and 
 
 - 🔭 I’m currently working on Python,Flask, Django, Django Rest Framework, HTML, CSS and Javascript
 - 🌱 I’m currently learning React Js and in Figma.
+
+https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
   
 - 👯 I would be happy to contribute to other projects so Contact Me! 💬 
 -  📫 How to reach me: mariamarreromedrano@gmail.com
