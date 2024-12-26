@@ -21,8 +21,6 @@ My goal is to create dynamic web applications that are visually comfortable and 
       <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
       <br>Bootstrap
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img alt="docker" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
       <br>Docker
