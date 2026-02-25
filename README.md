@@ -11,7 +11,7 @@ I am a passionate **Bioinformatics Engineering** student dedicated to bridging t
 - 🤖 **IA & Automation:** Integration of AI models and advanced process automation with **Python**.
 - 🔐 **Security:** Focused on creating secure environments and protecting user data.
 - 🎨 **Creative Design:** 3D Modeling and assets with **Blender**.
-- 📫 **How to reach me:** [Tu LinkedIn o Email]
+- 📫 **How to reach me:** mariamarreromedrano@gmail.com
 
 ---
 
