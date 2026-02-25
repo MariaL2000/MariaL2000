@@ -1,7 +1,7 @@
 # HI! I'm Maria
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MariaL2000/MariaL2000/violets-in-nova-logo.png" alt="Violets in Nova Logo" width="350px" />
+  <img src="https://raw.githubusercontent.com/MariaL2000/MariaL2000/main/violets-in-nova-logo.png" alt="Violets in Nova Logo" width="350px" />
 </p>
 
 
